@@ -1,0 +1,4 @@
+[
+	{"path":"/s3digest","action":"s3digest"},
+	{"path":"/simpleDb","action":"simpleDb"}
+]
